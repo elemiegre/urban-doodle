@@ -16,3 +16,8 @@ _this sentence is italic_
 __bold__
 
 >little quotes
+
+header of the table | other header |
+--------------|-----------------------
+A|B
+C|D
